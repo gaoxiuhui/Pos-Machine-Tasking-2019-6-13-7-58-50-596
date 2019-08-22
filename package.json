@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/gaoxiuhui/Pos-Machine-Tasking-2019-6-13-7-58-50-596/issues"
   },
-  "homepage": "https://github.com/gaoxiuhui/Pos-Machine-Tasking-2019-6-13-7-58-50-596#readme"
+  "homepage": "https://github.com/gaoxiuhui/Pos-Machine-Tasking-2019-6-13-7-58-50-596#readme",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
 }
